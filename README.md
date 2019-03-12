@@ -8,4 +8,4 @@
 6: Navigate to the .zip file you downloaded, select it, and click "Open".                                                          
 7: If everything worked, you should now see a modpack titled (insert pack name here) under the tab "My Modpacks".                                                 
 8: Click the "Play" button and hit the big green button when the Minecraft Launcher Opens.                                         
-9: Once you see the title screen, click "Multiplayer", then "Add Server", and then type in ```vitaserva.mcph.co``` in the lower of the two boxes.
+9: Once you see the title screen, click "Multiplayer", then "Add Server", and then type in `vitaserva.mcph.co` in the lower of the two boxes.
