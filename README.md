@@ -6,7 +6,7 @@
 4: Then click "Minecraft" and from there, "Create Custom Profile".                                                                 
 5: You should see a menu that looks just like the one in the provided screen capture.  Click the word "import" that I circled for you.                                                                                                                               
 
-!(/importmodpackcircle.png)
+!(Pecant-Pie/modpackhelp/importmodpackcircle.png)
 Format: ![Screenshot]
 
 6: Navigate to the .zip file you downloaded, select it, and click "Open".                                                          
