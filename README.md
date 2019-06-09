@@ -1,4 +1,4 @@
-# How to install a Modpack and join the Vita Serva server
+# How to install a Modpack and join the WJ Robotics server
 
 1: Download the (insert pack name here).zip file from wherever you found it.                                                       
 2: Download the Twitch Desktop App and run the installer.                                                                          
