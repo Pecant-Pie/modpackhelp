@@ -1,6 +1,6 @@
 # How to install a Modpack and join a Modded Server
 
-1: Download the `insert pack name here`.zip file from the trusted source you found it at.  
+1: Download the `pack name here`.zip file from the trusted source you found it at.  
 2: Download the Twitch Desktop App and run the installer.
 3: Run the Twitch Desktop App and click the "Mods" tab at the top.  
 4: Then click "Minecraft".  
