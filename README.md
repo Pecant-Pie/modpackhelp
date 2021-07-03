@@ -6,11 +6,11 @@
 4: Then click "Minecraft".  
 4a: If a button labeled `install` appears, click that.  
 4b: Click the tab labeled `Create Custom Profile`.  
-5: You should see a menu that looks just like the one in the provided screen capture.  Click the word `import` that I circled for you.
+5: You should see a menu that looks like the one below.  Click the word `import` that I circled for you.
 
 ![Screenshot](https://github.com/Pecant-Pie/modpackhelp/blob/master/curseimportscreenshot.PNG)  
 6: Navigate to the .zip file you downloaded, select it, and click `Open`.  
-7: If everything worked, you should now see a modpack titled (insert pack name here) under the tab `My Modpacks`.  
+7: If everything worked, you should now see the modpack under the tab `My Modpacks`.  
 8: Click the `Play` button and hit the big green button when the Minecraft Launcher opens.  
 9: Once you see the title screen, click `Multiplayer`.  
 10a: If the server you are looking there is already there, go to step 11.  
