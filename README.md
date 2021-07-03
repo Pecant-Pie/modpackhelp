@@ -1,5 +1,7 @@
 # How to install a Modpack and join a Modded Server
 
+For this, you need to have the modpack zip file and the IP address of the server you are joining.
+
 1: Download the `pack name here`.zip file from the trusted source you found it at.  
 2: Download the Curse Desktop App (@ https://curseforge.overwolf.com/) and run the installer.  
 3: Run the Curse Desktop App and click the "Mods" tab at the top.  
