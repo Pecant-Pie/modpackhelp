@@ -4,7 +4,7 @@
 2: Download the Curse Desktop App (@ https://curseforge.overwolf.com/) and run the installer.  
 3: Run the Curse Desktop App and click the "Mods" tab at the top.  
 4: Then click "Minecraft".  
-4a: If a button labeled `install` appears, click that and proceed to step 4b, otherwise, go to step 4b anyway.  
+4a: If a button labeled `install` appears, click that.  
 4b: Click the tab labeled `Create Custom Profile`.  
 5: You should see a menu that looks just like the one in the provided screen capture.  Click the word `import` that I circled for you.
 
