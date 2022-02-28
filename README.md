@@ -15,7 +15,7 @@ For this, you need to have the modpack zip file and the IP address of the server
 7: If everything worked, you should now see the modpack under the tab `My Modpacks`.  
 8: Click the `Play` button and hit the big green button when the Minecraft Launcher opens.  
 9: Once you see the title screen, click `Multiplayer`.  
-10a: If the server you are looking there is already there, go to step 11.  
+10a: If the server you are looking for is already there, go to step 11.  
 10b: If it isn't, click `Add Server`, and then type in `the server ip` in the lower of the two boxes.  You can type whatever you want in the top box.  Then click `Done` and proceed.  
 11: Double-click the server as it appears in the multiplayer menu to join it.  
 12: If something went wrong and you can't figure it out, open an issue and I'll get to it as soon as I can.
