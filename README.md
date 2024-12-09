@@ -13,7 +13,7 @@ For this, you need to have the modpack zip file and the IP address of the server
 5: Navigate to the .zip file you downloaded, select it, and click `Open`.  
 6: If everything worked, you should now see the modpack under the tab `My Modpacks`.  
 7: Now add your minecraft account in the top right:  
-![Screenshot](https://github.com/Pecant-Pie/modpackhelp/blob/master/accountscreenshot.PNG)  
+![Screenshot](https://github.com/Pecant-Pie/modpackhelp/blob/master/accountscreenshot .PNG)  
 8: Click the `Play` button and hit the big green button when the Minecraft Launcher opens.  
 9: Once you see the title screen, click `Multiplayer`.  
 10a: If the server you are looking for is already there, go to step 11.  
